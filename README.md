@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋  
+![My Skills](https://skillicons.dev/icons?i=py,r,aws,gcp,docker,pytorch,tensorflow)
+
+![Themes](https://img.shields.io/badge/Machine%20Learning-Data%20Science-yellowgreen)
 
 <!--
 **eeghor/eeghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
