@@ -1,4 +1,12 @@
-### Hi 😄
+🔥 Core AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?logo=graph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3A3A3A?logo=llama&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-000000?logo=openai&logoColor=white)
+
 
 <!--
 **eeghor/eeghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
